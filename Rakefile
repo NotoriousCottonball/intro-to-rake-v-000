@@ -4,3 +4,6 @@ namespace :greeting do
     puts "hello from Rake!"
   end
 end
+
+namespace :db do
+  
